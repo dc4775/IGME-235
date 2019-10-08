@@ -45,8 +45,8 @@ However, there will be powerup that player can buy after completing each level.
 * Rocket boost (skip the beginning of next level)
 
 ## Screensshots:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Gameplay")
+![alt text](https://people.rit.edu/dc4775/235/235Project1_DC/images/sketch1.png "Logo")
+![alt text](https://people.rit.edu/dc4775/235/235Project1_DC/images/sketch.png "Gameplay")
 
 ## Other:
 Due to the design, I split my proposal page into two different site.
